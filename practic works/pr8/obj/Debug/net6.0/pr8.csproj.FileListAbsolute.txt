@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\2.2\1\pr8\bin\Debug\net6.0\pr8.exe
+C:\Users\user\Desktop\2.2\1\pr8\bin\Debug\net6.0\pr8.deps.json
+C:\Users\user\Desktop\2.2\1\pr8\bin\Debug\net6.0\pr8.runtimeconfig.json
+C:\Users\user\Desktop\2.2\1\pr8\bin\Debug\net6.0\pr8.dll
+C:\Users\user\Desktop\2.2\1\pr8\bin\Debug\net6.0\pr8.pdb
+C:\Users\user\Desktop\2.2\1\pr8\obj\Debug\net6.0\pr8.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\2.2\1\pr8\obj\Debug\net6.0\pr8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\2.2\1\pr8\obj\Debug\net6.0\pr8.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\2.2\1\pr8\obj\Debug\net6.0\pr8.AssemblyInfo.cs
+C:\Users\user\Desktop\2.2\1\pr8\obj\Debug\net6.0\pr8.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\2.2\1\pr8\obj\Debug\net6.0\pr8.dll
+C:\Users\user\Desktop\2.2\1\pr8\obj\Debug\net6.0\refint\pr8.dll
+C:\Users\user\Desktop\2.2\1\pr8\obj\Debug\net6.0\pr8.pdb
+C:\Users\user\Desktop\2.2\1\pr8\obj\Debug\net6.0\pr8.genruntimeconfig.cache
+C:\Users\user\Desktop\2.2\1\pr8\obj\Debug\net6.0\ref\pr8.dll

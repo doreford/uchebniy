@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\2.2\1\pr2n2\bin\Debug\net6.0\pr2n2.exe
+C:\Users\user\Desktop\2.2\1\pr2n2\bin\Debug\net6.0\pr2n2.deps.json
+C:\Users\user\Desktop\2.2\1\pr2n2\bin\Debug\net6.0\pr2n2.runtimeconfig.json
+C:\Users\user\Desktop\2.2\1\pr2n2\bin\Debug\net6.0\pr2n2.dll
+C:\Users\user\Desktop\2.2\1\pr2n2\bin\Debug\net6.0\pr2n2.pdb
+C:\Users\user\Desktop\2.2\1\pr2n2\obj\Debug\net6.0\pr2n2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\2.2\1\pr2n2\obj\Debug\net6.0\pr2n2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\2.2\1\pr2n2\obj\Debug\net6.0\pr2n2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\2.2\1\pr2n2\obj\Debug\net6.0\pr2n2.AssemblyInfo.cs
+C:\Users\user\Desktop\2.2\1\pr2n2\obj\Debug\net6.0\pr2n2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\2.2\1\pr2n2\obj\Debug\net6.0\pr2n2.dll
+C:\Users\user\Desktop\2.2\1\pr2n2\obj\Debug\net6.0\refint\pr2n2.dll
+C:\Users\user\Desktop\2.2\1\pr2n2\obj\Debug\net6.0\pr2n2.pdb
+C:\Users\user\Desktop\2.2\1\pr2n2\obj\Debug\net6.0\pr2n2.genruntimeconfig.cache
+C:\Users\user\Desktop\2.2\1\pr2n2\obj\Debug\net6.0\ref\pr2n2.dll

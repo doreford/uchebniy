@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\popa\2.2\1\pr11n1\bin\Debug\net6.0\pr11n1.exe
+C:\Users\user\Desktop\popa\2.2\1\pr11n1\bin\Debug\net6.0\pr11n1.deps.json
+C:\Users\user\Desktop\popa\2.2\1\pr11n1\bin\Debug\net6.0\pr11n1.runtimeconfig.json
+C:\Users\user\Desktop\popa\2.2\1\pr11n1\bin\Debug\net6.0\pr11n1.dll
+C:\Users\user\Desktop\popa\2.2\1\pr11n1\bin\Debug\net6.0\pr11n1.pdb
+C:\Users\user\Desktop\popa\2.2\1\pr11n1\obj\Debug\net6.0\pr11n1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\popa\2.2\1\pr11n1\obj\Debug\net6.0\pr11n1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\popa\2.2\1\pr11n1\obj\Debug\net6.0\pr11n1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\popa\2.2\1\pr11n1\obj\Debug\net6.0\pr11n1.AssemblyInfo.cs
+C:\Users\user\Desktop\popa\2.2\1\pr11n1\obj\Debug\net6.0\pr11n1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\popa\2.2\1\pr11n1\obj\Debug\net6.0\pr11n1.dll
+C:\Users\user\Desktop\popa\2.2\1\pr11n1\obj\Debug\net6.0\refint\pr11n1.dll
+C:\Users\user\Desktop\popa\2.2\1\pr11n1\obj\Debug\net6.0\pr11n1.pdb
+C:\Users\user\Desktop\popa\2.2\1\pr11n1\obj\Debug\net6.0\pr11n1.genruntimeconfig.cache
+C:\Users\user\Desktop\popa\2.2\1\pr11n1\obj\Debug\net6.0\ref\pr11n1.dll

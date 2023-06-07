@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\2.2\1\pr5n2\bin\Debug\net6.0\pr5n2.exe
+C:\Users\user\Desktop\2.2\1\pr5n2\bin\Debug\net6.0\pr5n2.deps.json
+C:\Users\user\Desktop\2.2\1\pr5n2\bin\Debug\net6.0\pr5n2.runtimeconfig.json
+C:\Users\user\Desktop\2.2\1\pr5n2\bin\Debug\net6.0\pr5n2.dll
+C:\Users\user\Desktop\2.2\1\pr5n2\bin\Debug\net6.0\pr5n2.pdb
+C:\Users\user\Desktop\2.2\1\pr5n2\obj\Debug\net6.0\pr5n2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\2.2\1\pr5n2\obj\Debug\net6.0\pr5n2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\2.2\1\pr5n2\obj\Debug\net6.0\pr5n2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\2.2\1\pr5n2\obj\Debug\net6.0\pr5n2.AssemblyInfo.cs
+C:\Users\user\Desktop\2.2\1\pr5n2\obj\Debug\net6.0\pr5n2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\2.2\1\pr5n2\obj\Debug\net6.0\pr5n2.dll
+C:\Users\user\Desktop\2.2\1\pr5n2\obj\Debug\net6.0\refint\pr5n2.dll
+C:\Users\user\Desktop\2.2\1\pr5n2\obj\Debug\net6.0\pr5n2.pdb
+C:\Users\user\Desktop\2.2\1\pr5n2\obj\Debug\net6.0\pr5n2.genruntimeconfig.cache
+C:\Users\user\Desktop\2.2\1\pr5n2\obj\Debug\net6.0\ref\pr5n2.dll

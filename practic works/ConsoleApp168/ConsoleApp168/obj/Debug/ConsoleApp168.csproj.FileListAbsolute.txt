@@ -1,0 +1,20 @@
+C:\Users\user\source\repos\ConsoleApp168\ConsoleApp168\bin\Debug\ConsoleApp168.exe.config
+C:\Users\user\source\repos\ConsoleApp168\ConsoleApp168\bin\Debug\ConsoleApp168.exe
+C:\Users\user\source\repos\ConsoleApp168\ConsoleApp168\bin\Debug\ConsoleApp168.pdb
+C:\Users\user\source\repos\ConsoleApp168\ConsoleApp168\obj\Debug\ConsoleApp168.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ConsoleApp168\ConsoleApp168\obj\Debug\ConsoleApp168.exe
+C:\Users\user\source\repos\ConsoleApp168\ConsoleApp168\obj\Debug\ConsoleApp168.pdb
+Y:\Группы\Черновики\ОП.04 Основы алгормизации и программрования\1ИСП 11-31ВБ\Титов Дмитрий Олегович\11\ConsoleApp168\ConsoleApp168\bin\Debug\ConsoleApp168.exe.config
+Y:\Группы\Черновики\ОП.04 Основы алгормизации и программрования\1ИСП 11-31ВБ\Титов Дмитрий Олегович\11\ConsoleApp168\ConsoleApp168\bin\Debug\ConsoleApp168.exe
+Y:\Группы\Черновики\ОП.04 Основы алгормизации и программрования\1ИСП 11-31ВБ\Титов Дмитрий Олегович\11\ConsoleApp168\ConsoleApp168\bin\Debug\ConsoleApp168.pdb
+Y:\Группы\Черновики\ОП.04 Основы алгормизации и программрования\1ИСП 11-31ВБ\Титов Дмитрий Олегович\11\ConsoleApp168\ConsoleApp168\obj\Debug\ConsoleApp168.csprojAssemblyReference.cache
+Y:\Группы\Черновики\ОП.04 Основы алгормизации и программрования\1ИСП 11-31ВБ\Титов Дмитрий Олегович\11\ConsoleApp168\ConsoleApp168\obj\Debug\ConsoleApp168.exe
+Y:\Группы\Черновики\ОП.04 Основы алгормизации и программрования\1ИСП 11-31ВБ\Титов Дмитрий Олегович\11\ConsoleApp168\ConsoleApp168\obj\Debug\ConsoleApp168.pdb
+C:\Users\user\Desktop\MONEYBAGGG\11\ConsoleApp168\ConsoleApp168\bin\Debug\ConsoleApp168.exe.config
+C:\Users\user\Desktop\MONEYBAGGG\11\ConsoleApp168\ConsoleApp168\bin\Debug\ConsoleApp168.exe
+C:\Users\user\Desktop\MONEYBAGGG\11\ConsoleApp168\ConsoleApp168\bin\Debug\ConsoleApp168.pdb
+C:\Users\user\Desktop\MONEYBAGGG\11\ConsoleApp168\ConsoleApp168\obj\Debug\ConsoleApp168.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\MONEYBAGGG\11\ConsoleApp168\ConsoleApp168\obj\Debug\ConsoleApp168.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\MONEYBAGGG\11\ConsoleApp168\ConsoleApp168\obj\Debug\ConsoleApp168.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MONEYBAGGG\11\ConsoleApp168\ConsoleApp168\obj\Debug\ConsoleApp168.exe
+C:\Users\user\Desktop\MONEYBAGGG\11\ConsoleApp168\ConsoleApp168\obj\Debug\ConsoleApp168.pdb
